@@ -8,13 +8,13 @@ By day I am a senior software engineer working on real-time fraud detection, the
 
 Apps I have designed, built, and shipped under Uncle Sams Tech LLC:
 
-- **Walking Counter** - a GPS walking companion with loop routes, streaks, and achievements: https://apps.apple.com/us/app/walking-counter/id6756629154
-- **Tika: AI Friends** - chat with a customizable virtual friend: https://apps.apple.com/us/app/tika-ai-friends/id6505063783
-- **PNW Gardening** - a plant encyclopedia and garden tracker with local weather and frost data: https://apps.apple.com/us/app/pnw-gardening/id6745737857
-- **Notes with AI** - minimal, calm notes with AI help: https://apps.apple.com/us/app/notes-with-ai/id6757164029
-- **JuJu: Your Story, Your Stage** - create, share, and shine with your stories: https://apps.apple.com/us/app/juju-your-story-your-stage/id6741166084
-- **Invoice and Estimates** - create and share invoices and estimates from your phone: https://apps.apple.com/us/app/invoice-and-estimates/id6736815144
-- **New York Laws** - New York State laws in your pocket, with bookmarks, highlights, and AI summaries: https://apps.apple.com/us/app/new-york-laws/id6503811263
+- **[Walking Counter](https://apps.apple.com/us/app/walking-counter/id6756629154)** - a GPS walking companion with loop routes, streaks, and achievements
+- **[Tika: AI Friends](https://apps.apple.com/us/app/tika-ai-friends/id6505063783)** - chat with a customizable virtual friend
+- **[PNW Gardening](https://apps.apple.com/us/app/pnw-gardening/id6745737857)** - a plant encyclopedia and garden tracker with local weather and frost data
+- **[Notes with AI](https://apps.apple.com/us/app/notes-with-ai/id6757164029)** - minimal, calm notes with AI help
+- **[JuJu: Your Story, Your Stage](https://apps.apple.com/us/app/juju-your-story-your-stage/id6741166084)** - create, share, and shine with your stories
+- **[Invoice and Estimates](https://apps.apple.com/us/app/invoice-and-estimates/id6736815144)** - create and share invoices and estimates from your phone
+- **[New York Laws](https://apps.apple.com/us/app/new-york-laws/id6503811263)** - New York State laws in your pocket, with bookmarks, highlights, and AI summaries
 
 What you will find here:
 
